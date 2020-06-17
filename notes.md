@@ -5,6 +5,8 @@ The goal is to look in particular for livingston's use of ideas like 'rights' in
 
 so the first challenge is figuring out what to even download. after some looking, I think what I want is the TEI transcriptions, all that are available. 
 
+the additional challenge: I can't use R. I was hoping that by delaying this, I would get access to my computer that isn't throwing a tantrum everytime R boots, but I can't wait any longer. 
+
 my attempted pull grabbed a whole bunch of them, so let's take a look. The first thing I want to do is see if I can plug the XML files right into Voyant. 
 
 that actually worked way better then I was expecting. 
@@ -16,4 +18,12 @@ Voyant was a really good tool for this data, in my opinion. Next, the question i
 I'm going to try to use excel for this, using the import data function to import to whole folder. I don't think this will work, but I think it's worth trying. 
 
 so rather then any data, it instead gave me a spreadsheet of all my XML files. This isn't what I wanted, but could be useful. 
+
+considering how well Voyant worked, I'm going to try out AntConc
+
+It can't process xml files, should have seen that one comming. 
+
+next attempt: topic modeling, using the tool. 
+
+
 
