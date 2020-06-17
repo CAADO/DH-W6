@@ -33,4 +33,6 @@ after rereading some instructions, I'm going to re-save my XMLs as TXT and try o
 
 I got it to work! screenshot of the namechange will be uploaded
 
+now that I got it to function, some interesting data comes out of that. I can look into phrases too, but it seems to confirm my earlier idea: dispite his famous consern with the slave trade, Livingstone doesn't think about abolition in terms of the rights of the enslaved, or even rights at all.
+
 
