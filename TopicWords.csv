@@ -1,0 +1,11 @@
+Topic Id,Top Words...
+0,lb term persname choice type amp sic corr placename unclear extent unit rend orgname space settlement bibl pb cert reg
+1,lb choice rend abbr expan type placename term date persname measure unit geogname item amp underline add extent sic corr
+2,lb add del place type term hand rend xml choice subst u3 red ref gray strikethrough placename cancelled persname marginleft
+3,seg rend fw place country left pb type men facs center water great found large river top man small smallcaps
+4,xml facs lry lrx ulx uly zone id lb tif graphic url unit ref placename persname geogname extent rend choice
+5,lb term type placename orgname persname choice geogname add place note settlement orig reg date measure occupation foreign region rend
+6,lb placename reg persname choice orig pb add hand02 amp place underline rend hand01 type corr river sic facs extent
+7,choice expan abbr xml type ref unit extent resp placename space chars term dl settlement change geogname add aw sic
+8,seg rend date fw italic 8212 left people pb facs men space unit extent type lb center livingstone 1871 2
+9,lb xml id date persname bibl rend leap pb change http tei 1 type title livingstone extent unit reg space
