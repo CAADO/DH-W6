@@ -25,5 +25,6 @@ It can't process xml files, should have seen that one comming.
 
 next attempt: topic modeling, using the tool. 
 
+this was also a failure, totally incompehensable data. Apperently it didn't feel like playing nice with the XML files this time. I'm pretty sure it grabbed the titles, but I will upload the lot of the failures so you can take a look if you want. 
 
 
