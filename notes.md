@@ -29,4 +29,8 @@ this was also a failure, totally incompehensable data. Apperently it didn't feel
 
 So I have some excelent Voyant results, a API call that worked, and several attempts at visualisations that failed. I think I'm going to make a hard turn, and instead I'm going to make an audio file about this. That's what I spent time on before, and I think it's the most interesting way to explain what I'm thinking in this case. It was also a big focus of the course, I've done plenty of visualisations, posters and normal presintations of data, but I've never done audio before. 
 
+after rereading some instructions, I'm going to re-save my XMLs as TXT and try out AntConc again.
+
+I got it to work! screenshot of the namechange will be uploaded
+
 
